@@ -1,4 +1,4 @@
-# Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI
+# Analise de Sentimentos com Language Studio no Azure AI
 
 ## Introdução
 Este repositório contém um exemplo de análise de sentenças usando IA.
